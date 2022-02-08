@@ -1,6 +1,9 @@
 # NYC-Blog
 
-A simple blog page of New York City that is made implementing the use of the following Semantic HTML elements :
+Semantic HTML introduces meaning to a page through specific elements that provide context as to what is in between the tags.
+<br>Semantic HTML is a modern standard and makes a website accessible for people who use screen readers to translate the webpage and improves your website’s SEO
+
+Here , I have made simple blog page of New York City implementing the use of the following Semantic HTML elements :
 
 <ol>
   <li>header</li>
